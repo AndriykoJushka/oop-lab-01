@@ -6,4 +6,3 @@ if (number % 9 == 0 || number % 11 == 0 || number % 13 == 0) {
 } else { result = false;  }
 
 Console.WriteLine(result);
-Console.ReadLine();

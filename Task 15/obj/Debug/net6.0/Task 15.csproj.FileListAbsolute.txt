@@ -1,0 +1,14 @@
+D:\oop\oop lab 1\Task 15\bin\Debug\net6.0\Task 15.exe
+D:\oop\oop lab 1\Task 15\bin\Debug\net6.0\Task 15.deps.json
+D:\oop\oop lab 1\Task 15\bin\Debug\net6.0\Task 15.runtimeconfig.json
+D:\oop\oop lab 1\Task 15\bin\Debug\net6.0\Task 15.dll
+D:\oop\oop lab 1\Task 15\bin\Debug\net6.0\Task 15.pdb
+D:\oop\oop lab 1\Task 15\obj\Debug\net6.0\Task 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\oop lab 1\Task 15\obj\Debug\net6.0\Task 15.AssemblyInfoInputs.cache
+D:\oop\oop lab 1\Task 15\obj\Debug\net6.0\Task 15.AssemblyInfo.cs
+D:\oop\oop lab 1\Task 15\obj\Debug\net6.0\Task 15.csproj.CoreCompileInputs.cache
+D:\oop\oop lab 1\Task 15\obj\Debug\net6.0\Task 15.dll
+D:\oop\oop lab 1\Task 15\obj\Debug\net6.0\refint\Task 15.dll
+D:\oop\oop lab 1\Task 15\obj\Debug\net6.0\Task 15.pdb
+D:\oop\oop lab 1\Task 15\obj\Debug\net6.0\Task 15.genruntimeconfig.cache
+D:\oop\oop lab 1\Task 15\obj\Debug\net6.0\ref\Task 15.dll

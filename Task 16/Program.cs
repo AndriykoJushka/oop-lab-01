@@ -30,5 +30,3 @@ switch(day)
         break;
 
 }
-Console.ReadLine();
-//чи є кращий спосіб?

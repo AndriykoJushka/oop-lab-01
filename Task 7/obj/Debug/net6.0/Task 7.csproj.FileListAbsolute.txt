@@ -1,0 +1,14 @@
+D:\oop\OOP lab 1\Task 7\bin\Debug\net6.0\Task 7.exe
+D:\oop\OOP lab 1\Task 7\bin\Debug\net6.0\Task 7.deps.json
+D:\oop\OOP lab 1\Task 7\bin\Debug\net6.0\Task 7.runtimeconfig.json
+D:\oop\OOP lab 1\Task 7\bin\Debug\net6.0\Task 7.dll
+D:\oop\OOP lab 1\Task 7\bin\Debug\net6.0\Task 7.pdb
+D:\oop\OOP lab 1\Task 7\obj\Debug\net6.0\Task 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\OOP lab 1\Task 7\obj\Debug\net6.0\Task 7.AssemblyInfoInputs.cache
+D:\oop\OOP lab 1\Task 7\obj\Debug\net6.0\Task 7.AssemblyInfo.cs
+D:\oop\OOP lab 1\Task 7\obj\Debug\net6.0\Task 7.csproj.CoreCompileInputs.cache
+D:\oop\OOP lab 1\Task 7\obj\Debug\net6.0\Task 7.dll
+D:\oop\OOP lab 1\Task 7\obj\Debug\net6.0\refint\Task 7.dll
+D:\oop\OOP lab 1\Task 7\obj\Debug\net6.0\Task 7.pdb
+D:\oop\OOP lab 1\Task 7\obj\Debug\net6.0\Task 7.genruntimeconfig.cache
+D:\oop\OOP lab 1\Task 7\obj\Debug\net6.0\ref\Task 7.dll

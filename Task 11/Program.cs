@@ -8,4 +8,3 @@ string number_to_string = number.ToString();
 char[] number_char_array = number_to_string.ToCharArray();
 char result = number_char_array[n];
 Console.WriteLine(result);
-Console.ReadLine();

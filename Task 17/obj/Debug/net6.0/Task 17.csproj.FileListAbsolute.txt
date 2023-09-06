@@ -1,0 +1,14 @@
+D:\oop\oop lab 1\Task 17\obj\Debug\net6.0\Task 17.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\oop lab 1\Task 17\obj\Debug\net6.0\Task 17.AssemblyInfoInputs.cache
+D:\oop\oop lab 1\Task 17\obj\Debug\net6.0\Task 17.AssemblyInfo.cs
+D:\oop\oop lab 1\Task 17\obj\Debug\net6.0\Task 17.csproj.CoreCompileInputs.cache
+D:\oop\oop lab 1\Task 17\bin\Debug\net6.0\Task 17.exe
+D:\oop\oop lab 1\Task 17\bin\Debug\net6.0\Task 17.deps.json
+D:\oop\oop lab 1\Task 17\bin\Debug\net6.0\Task 17.runtimeconfig.json
+D:\oop\oop lab 1\Task 17\bin\Debug\net6.0\Task 17.dll
+D:\oop\oop lab 1\Task 17\bin\Debug\net6.0\Task 17.pdb
+D:\oop\oop lab 1\Task 17\obj\Debug\net6.0\Task 17.dll
+D:\oop\oop lab 1\Task 17\obj\Debug\net6.0\refint\Task 17.dll
+D:\oop\oop lab 1\Task 17\obj\Debug\net6.0\Task 17.pdb
+D:\oop\oop lab 1\Task 17\obj\Debug\net6.0\Task 17.genruntimeconfig.cache
+D:\oop\oop lab 1\Task 17\obj\Debug\net6.0\ref\Task 17.dll

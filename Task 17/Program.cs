@@ -6,4 +6,3 @@ int factorial(int num) {
 }
 
 Console.WriteLine(factorial(number));
-Console.ReadLine();

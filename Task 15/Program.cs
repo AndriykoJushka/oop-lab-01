@@ -10,4 +10,3 @@ if (first * second * third >= 0) {
 } else { result = "Negative"; }
 
 Console.WriteLine("Result: " + result);
-Console.ReadLine();
